@@ -1,0 +1,112 @@
+[
+  {
+    "id": "001",
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "imageLink": "https://images.unsplash.com/photo-1467951591042-f388365db261?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=andrew-neel--FVaZbu6ZAE-unsplash.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+    "audio_url": "../demo/matzet.wav",
+    "title": "Things Fall Apart",
+    "year": 1958
+  },
+  {
+    "id": "002",
+    "author": "Hans Christian Andersen",
+    "country": "Denmark",
+    "imageLink": "https://unsplash.com/photos/CXYPfveiuis/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzA5MzA0NzU1fA&force=true",
+    "language": "Danish",
+    "link": "https://en.wikipedia.org/wiki/Fairy_Tales_Told_for_Children._First_Collection.\n",
+    "audio_url": "../demo/matzet.wav",
+    "title": "Fairy tales",
+    "year": 1836
+  },
+  {
+    "id": "003",
+    "author": "Dante Alighieri",
+    "country": "Italy",
+    "imageLink": "https://unsplash.com/photos/9zsHNt5OpqE/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzA5MzAzOTQ1fA&force=true",
+    "language": "Italian",
+    "link": "https://en.wikipedia.org/wiki/Divine_Comedy\n",
+    "audio_url": "../demo/matzet.wav",
+    "title": "The Divine Comedy",
+    "year": 1315
+  },
+  {
+    "id": "004",
+    "author": "Unknown",
+    "country": "Sumer and Akkadian Empire",
+    "imageLink": "https://unsplash.com/photos/bhBONc07WsI/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzA5MzE1NDcxfA&force=true",
+    "language": "Akkadian",
+    "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh\n",
+    "audio_url": "../demo/matzet.wav",
+    "title": "The Epic Of Gilgamesh",
+    "year": -1700
+  },
+  {
+    "id": "005",
+    "author": "Unknown",
+    "country": "Achaemenid Empire",
+    "imageLink": "https://unsplash.com/photos/g827ZOCwt30/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzA5MzE1NDg3fA&force=true",
+    "language": "Hebrew",
+    "link": "https://en.wikipedia.org/wiki/Book_of_Job\n",
+    "audio_url": "../demo/matzet.wav",
+    "title": "The Book Of Job",
+    "year": -600
+  },
+  {
+    "id": "006",
+    "author": "Unknown",
+    "country": "India/Iran/Iraq/Egypt/Tajikistan",
+    "imageLink": "https://unsplash.com/photos/UhdlN7u87nA/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzA5MzE1NTEyfA&force=true",
+    "language": "Arabic",
+    "link": "https://en.wikipedia.org/wiki/One_Thousand_and_One_Nights\n",
+    "audio_url": "../demo/matzet.wav",
+    "title": "One Thousand and One Nights",
+    "year": 1200
+  },
+  {
+    "id": "007",
+    "author": "Unknown",
+    "country": "Iceland",
+    "imageLink": "https://unsplash.com/photos/zMRLZh40kms/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzA5MzEyNzU5fA&force=true",
+    "language": "Old Norse",
+    "link": "https://en.wikipedia.org/wiki/Nj%C3%A1ls_saga\n",
+    "audio_url": "../demo/matzet.wav",
+    "title": "Nj\u00e1l's Saga",
+    "year": 1350
+  },
+  {
+    "id": "008",
+    "author": "Jane Austen",
+    "country": "United Kingdom",
+    "imageLink": "https://images.unsplash.com/photo-1467951591042-f388365db261?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&dl=andrew-neel--FVaZbu6ZAE-unsplash.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Pride_and_Prejudice\n",
+    "audio_url": "../demo/matzet.wav",
+    "title": "Pride and Prejudice",
+    "year": 1813
+  },
+  {
+    "id": "009",
+    "author": "Honor\u00e9 de Balzac",
+    "country": "France",
+    "imageLink": "https://unsplash.com/photos/YTRtCfniV8I/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzA5MzE1NTQwfA&force=true",
+    "language": "French",
+    "link": "https://en.wikipedia.org/wiki/Le_P%C3%A8re_Goriot\n",
+    "audio_url": "../demo/matzet.wav",
+    "title": "Le P\u00e8re Goriot",
+    "year": 1835
+  },
+  {
+    "id": "010",
+    "author": "Samuel Beckett",
+    "country": "Republic of Ireland",
+    "imageLink": "https://unsplash.com/photos/DRZQLqm-wk8/download?ixid=M3wxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNzA5MzE1NTUwfA&force=true",
+    "language": "French, English",
+    "link": "https://en.wikipedia.org/wiki/Molloy_(novel)\n",
+    "audio_url": "../demo/matzet.wav",
+    "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "year": 1952
+  }
+]
